@@ -1,0 +1,6 @@
+{
+  "name": "EMERALD ANDAMAN - Andaman Travel & Octo AI Guide",
+  "description": "Explore the Andaman Islands with EMERALD ANDAMAN and Octo, your 8-tentacled AI travel companion. Discover 2x2 reels, Pinterest-style location boards, and custom ferry itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
